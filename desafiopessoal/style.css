@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(150, 233, 157);
+}
+h1#principal{
+    background-color: rgb(23, 121, 23);
+    text-align: center;
+    color: black;
+}
+h1{
+    color: rgb(20, 43, 23);
+}
+.basic{
+    color: rgb(51, 146, 51);
+}
+.intermidiate{
+    color: rgb(137, 146, 51);
+}
+.advanced{
+    color: rgb(146, 51, 51);
+}
